@@ -10,12 +10,16 @@
 ---
 
 ### 🌐 Connect with me:
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/varsha-devi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha-devi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i__varsha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i__varsha18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varsha-devi-89a332296" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Varsha Devi LinkedIn" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/i__varsha18" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i__varsha18 LeetCode" height="30" width="40" />
+</a>
 </p>
 
----
 
 ### 🧰 Languages and Tools:
 <p align="left">
