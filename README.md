@@ -10,7 +10,6 @@
 ---
 
 ### 🌐 Connect with me:
-### 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/varsha-devi-89a332296" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Varsha Devi LinkedIn" height="30" width="40" />
@@ -19,6 +18,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i__varsha18 LeetCode" height="30" width="40" />
 </a>
 </p>
+
+---
 
 
 ### 🧰 Languages and Tools:
@@ -32,7 +33,7 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-
+---
 
 ### 💡 LeetCode Stats
 <p align="center">
