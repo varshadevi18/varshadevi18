@@ -46,11 +46,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=varshadevi18&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshadevi18&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-<div align="center">
-  <h2 style="color:#00ff99;">varshadevi18's Contribution Graph</h2>
-  <img src="https://ghchart.rshah.org/00ff99/varshadevi18" alt="GitHub Contribution Graph" />
-</div>
+
 
