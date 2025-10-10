@@ -37,16 +37,4 @@
 
 ---
 
-### 💡 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/i__varsha18?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varshadevi18&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 
