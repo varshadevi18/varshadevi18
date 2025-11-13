@@ -1,10 +1,5 @@
 <h1 align="center">Hello 👋, I'm Varsha here!</h1>
-<h3 align="center">A passionate Full Stack Java Developer in training from India</h3>
 
-- 🔭 I’m currently working on **Spring Boot CRUD Application with Azure MySQL Integration**
-- 🌱 I’m currently learning **Full Stack Java (Spring Boot, MySQL, HTML, CSS, JS, React basics)**
-- 👯 I’m looking to collaborate on **Java-based backend projects and API development**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Databases**
 - 📫 How to reach me **itzvarshadevi@gmail.com**
 
 ---
